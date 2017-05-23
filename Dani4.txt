@@ -1,1 +1,5 @@
-quinta feira
+public class projeto e pratica{
+public void main(String[]args){
+System.out.println("Quinta feira")
+}
+}
